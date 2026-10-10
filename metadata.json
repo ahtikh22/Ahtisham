@@ -1,0 +1,6 @@
+{
+  "name": "Ahti Shopping Store",
+  "description": "Modern full-stack online shopping store with rich catalog in PKR, cart, Pakistan payment methods, customer tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
